@@ -44,3 +44,7 @@ Calls from your contacts are not screened, because the app has no contacts permi
 ## Status
 
 The app builds and installs on Android 14. Number matching was checked with a temporary test that is not included in the repo. Blocking has not yet been verified with a real call.
+
+## License
+
+[MIT](LICENSE)
